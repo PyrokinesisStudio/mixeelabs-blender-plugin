@@ -30,8 +30,8 @@ bl_info = {
     "location": "File > Import-Export",
     "description": "Import-Export three.js meshes for Mixee Labs",
     "warning": "",
-    "wiki_url": "https://github.com/mrdoob/three.js/tree/master/utils/exporters/blender",
-    "tracker_url": "https://github.com/mrdoob/three.js/issues",
+    "wiki_url": "https://github.com/neuralfirings/mixeelabs-blender-plugin",
+    "tracker_url": "https://github.com/neuralfirings/mixeelabs-blender-plugin/issues",
     "category": "Import-Export"}
 
 # To support reload properly, try to access a package var,
